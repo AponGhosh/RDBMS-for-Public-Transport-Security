@@ -26,7 +26,6 @@ A comprehensive database system for managing bus transportation operations, incl
 
 ## Entity-Relationship Diagram
 ![ER Diagram](https://github.com/AponGhosh/RDBMS-for-Public-Transport-Security/blob/main/ER-Diagram.png)
-![Another Diagram](https://github.com/AponGhosh/RDBMS-for-Public-Transport-Security/blob/main/Another-Diagram.png)
 
 ## Tools
 - **Database Management System**: MariaDB 10.4.27
