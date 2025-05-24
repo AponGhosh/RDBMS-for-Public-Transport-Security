@@ -35,7 +35,6 @@ A comprehensive database system for managing bus transportation operations, incl
   - Command Prompt (Query Scripting)
 - **Modeling Software**:
   - Lucidchart (ER Diagram Design)
-  - Draw.io (Relationship Mapping)
 - **Backup Utility**: mysqldump (Database Export/Import)
 
 ## Clone Repository
