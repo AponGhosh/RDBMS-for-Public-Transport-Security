@@ -1,7 +1,7 @@
 # RDBMS-for-Public-Transport-Security
 
 ## Overview
-A comprehensive database system for managing bus transportation operations, including vehicle tracking, driver management, passenger and bus information, and route scheduling.
+A comprehensive relational database system for managing bus transportation operations, including vehicle tracking, driver management, passenger and bus information, and route scheduling.
 
 ## Key Features
 - Comprehensive bus information tracking (registration, engine, chassis, fitness, tax details)
