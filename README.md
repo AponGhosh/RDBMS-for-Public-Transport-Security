@@ -30,7 +30,8 @@ A comprehensive database system for managing bus transportation operations, incl
 ## Tools
 - **Database Management System**: MariaDB 10.4.27
 - **Programming Language**: SQL (Structured Query Language)
-- **Development Tools**:
+- **Development Environment**:
+  - XAMPP
   - phpMyAdmin 5.2.0 (Database Administration)
   - Command Prompt (Query Scripting)
 - **Modeling Software**:
